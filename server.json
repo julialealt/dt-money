@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-10-21T16:40:49.512Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2024-10-20T18:40:49.512Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2024-09-19T18:40:49.512Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-10-26T15:26:35.004Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-10-26T15:42:52.333Z",
+      "id": 5
+    },
+    {
+      "description": "Sushi",
+      "price": 30,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-10-26T15:54:50.424Z",
+      "id": 6
+    },
+    {
+      "description": "iPhone",
+      "price": 4500,
+      "category": "Compras",
+      "type": "outcome",
+      "createdAt": "2024-10-27T17:43:19.715Z",
+      "id": 7
+    },
+    {
+      "description": "Formação React Rocketseat",
+      "price": 1000,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2024-10-27T18:40:51.375Z",
+      "id": 8
+    }
+  ]
+}
